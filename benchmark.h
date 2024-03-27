@@ -1,6 +1,6 @@
 #ifndef BENCHMARK_H
 #define BENCHMARK_H
-
+#include<memory>
 #define MULTI_NUM_FOR_INPUT (1000000)   //  用户输入数据量的乘数,简化用户操作
 
 /**
